@@ -1,0 +1,29 @@
+// Primer comentario, con la URL del lenguaje  https://developer.mozilla.org/es/docs/Web/JavaScript
+
+// Comentario en una linea
+
+
+
+/* Comentario
+en varias
+líneas */
+
+let v1 = 'variable1'
+var v2 = 'variable2'
+const JavaScript = 'constante'
+
+
+// Variables con datos primitivos en js
+
+let String = 'string';
+let number = 9;
+let boolean = false;
+let nulo = null;
+let undefined = undefined;
+let símbolo = Symbol();
+
+
+
+// Impresión por terminal el texto
+
+console.log ("¡Hola, Javascript]!")
